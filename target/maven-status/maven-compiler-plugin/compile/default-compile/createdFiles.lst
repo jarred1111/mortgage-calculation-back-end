@@ -1,0 +1,6 @@
+com/mortageCal/MortageCalculation/dao/CalculationDao.class
+com/mortageCal/MortageCalculation/endpoints/API.class
+com/mortageCal/MortageCalculation/theBrain/Calculate.class
+com/mortageCal/MortageCalculation/entities/MortageInputs.class
+com/mortageCal/MortageCalculation/SecurityConfig.class
+com/mortageCal/MortageCalculation/MortageCalculationApplication.class
